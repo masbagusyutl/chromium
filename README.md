@@ -1,0 +1,2 @@
+# chromium
+Auto install chromium
